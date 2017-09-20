@@ -1,0 +1,15 @@
+C:\Users\kalra\AppData\Local\Programs\Python\Python35-32\python.exe "C:/Users/kalra/Documents/Queen's/Year 3/Fall2016/CMPE365/10157529-10141943_Assignment1.py"
+
+Optimal route from city 50 to city 144 is:
+50 to city 138 to city 180 to city 144
+Arrival time at destination is T = 32 
+
+Optimal route from city 140 to city 92 is:
+140 to city 152 to city 116 to city 92
+Arrival time at destination is T = 19 
+
+There is no feasible path from 99 to 117 
+
+Optimal route from city 108 to city 28 is:
+108 to city 72 to city 28
+Arrival time at destination is T = 26 
